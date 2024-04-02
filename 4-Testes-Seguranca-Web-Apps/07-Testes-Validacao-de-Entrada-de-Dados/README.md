@@ -6,9 +6,9 @@
 
 4.7.3 [Testando HTTP Verb Tampering](03-Testando-HTTP-Verb-Tampering.md)
 
-4.7.4 [Testing for HTTP Parameter Pollution](04-Testing_for_HTTP_Parameter_Pollution.md)
+4.7.4 [Testando a Poluição de Parâmetros HTTP](04-Testando-a-Poluição-de-Parâmetros-HTTP.md)
 
-4.7.5 [Testing for SQL Injection](05-Testing_for_SQL_Injection.md)
+4.7.5 [Testando a Injeção de SQL](05-Testando-a-Injeção-de-SQL.md)
 
 - 4.7.5.1 [Testing for Oracle](05.1-Testing_for_Oracle.md)
 
@@ -26,7 +26,7 @@
 
 - 4.7.5.8 [Testing for Client-side](05.8-Testing_for_Client-side.md)
 
-4.7.6 [Testing for LDAP Injection](06-Testing_for_LDAP_Injection.md)
+4.7.6 [Testando Injeção LDAP](06-Testando-Injeção-LDAP.md)
 
 4.7.7 [Testing for XML Injection](07-Testing_for_XML_Injection.md)
 
